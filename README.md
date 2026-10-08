@@ -1,5 +1,4 @@
-# IHRUC.github.io
-INTERNATIONAL HUMAN RIGHTS &amp; UTILITIES COUNCIL (IHRUC)- official website
+
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <title>IHRUC – Personal & Professional Information Form</title>
